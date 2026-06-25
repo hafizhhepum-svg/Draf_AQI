@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: mypaper.aux
+The style file: elsarticle-num-names.bst
+Database file #1: atmospheric.bib
+I was expecting a `,' or a `}'---line 6 of file atmospheric.bib
+ :   
+ :   year    = {2014},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "EEA2022Transport" isn't style-file defined
+--line 184 of file atmospheric.bib
+Warning--I didn't find a database entry for "spirtes2000causation"
+Warning--I didn't find a database entry for "pearl2009causality"
+Warning--I didn't find a database entry for "kalisch2007estimating"
+Warning--I didn't find a database entry for "fisher1924distribution"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty year in Cho2014GRU; set to ????
+Warning--empty pages in Sutskever2014Seq2Seq
+You've used 24 entries,
+            2918 wiz_defined-function locations,
+            809 strings with 11558 characters,
+and the built_in function-call counts, 16402 in all, are:
+= -- 1169
+> -- 794
+< -- 16
++ -- 310
+- -- 276
+* -- 1997
+:= -- 2404
+add.period$ -- 47
+call.type$ -- 24
+change.case$ -- 210
+chr.to.int$ -- 24
+cite$ -- 26
+duplicate$ -- 1176
+empty$ -- 1105
+format.name$ -- 337
+if$ -- 2971
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 251
+newline$ -- 121
+num.names$ -- 96
+pop$ -- 396
+preamble$ -- 1
+purify$ -- 206
+quote$ -- 0
+skip$ -- 261
+stack$ -- 0
+substring$ -- 627
+swap$ -- 907
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 213
+warning$ -- 2
+while$ -- 94
+width$ -- 0
+write$ -- 338
+(There was 1 error message)

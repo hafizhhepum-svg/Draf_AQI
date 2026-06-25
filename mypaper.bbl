@@ -1,0 +1,234 @@
+\begin{thebibliography}{24}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Book
+\bibitem[{{World Health Organization}(2024)}]{WHO2024}
+\bibinfo{author}{{World Health Organization}}, \bibinfo{title}{{World Health
+  Statistics 2024}}, \bibinfo{publisher}{World Health Organization},
+  \bibinfo{address}{Geneva, Switzerland}, \bibinfo{year}{2024}.
+  \bibinfo{note}{Available online:
+  \url{https://www.who.int/publications/i/item/9789240094703}}.
+%Type = Article
+\bibitem[{Madrigano et~al.(2024)Madrigano, Yan, Liu, Bonilla, Yulianti,
+  Mickley, and Marlier}]{Madrigano2024}
+\bibinfo{author}{J.~Madrigano}, \bibinfo{author}{D.~Yan},
+  \bibinfo{author}{T.~Liu}, \bibinfo{author}{E.~Bonilla},
+  \bibinfo{author}{N.~Yulianti}, \bibinfo{author}{L.~J. Mickley},
+  \bibinfo{author}{M.~E. Marlier},
+\newblock \bibinfo{title}{Air pollution and blood pressure: Evidence from
+  indonesia},
+\newblock \bibinfo{journal}{GeoHealth} \bibinfo{volume}{8}
+  (\bibinfo{year}{2024}) \bibinfo{pages}{1--11}.
+  \DOIprefix\doi{10.1029/2024GH001014}.
+%Type = Misc
+\bibitem[{{European Environment Agency}(2022)}]{EEA2022Transport}
+\bibinfo{author}{{European Environment Agency}}, \bibinfo{title}{Transport and
+  environment report 2021: Decarbonising road transport – the role of
+  vehicles, fuels and transport demand}, \bibinfo{year}{2022}. \URLprefix
+  \url{https://shipzero.com/wp-content/uploads/2022/12/10036.pdf}.
+%Type = Article
+\bibitem[{Dimension(2022)}]{Dimension2022}
+\bibinfo{author}{C.~E. Dimension},
+\newblock \bibinfo{title}{Effect of the rise in online motorcycle taxi services
+  on the number of motorcycles using the interrupted time series method},
+\newblock \bibinfo{journal}{Civil Engineering Dimension} \bibinfo{volume}{23}
+  (\bibinfo{year}{2022}) \bibinfo{pages}{123--130}.
+  \DOIprefix\doi{10.9744/CED.23.2.123-130}.
+%Type = Article
+\bibitem[{Shu et~al.(2024)Shu, Cao, Liu, Wang, Jiang, Wu, and Shu}]{Shu2024}
+\bibinfo{author}{X.~Shu}, \bibinfo{author}{J.~Cao}, \bibinfo{author}{Q.~Liu},
+  \bibinfo{author}{Y.~Wang}, \bibinfo{author}{F.~Jiang},
+  \bibinfo{author}{C.~Wu}, \bibinfo{author}{J.~Shu},
+\newblock \bibinfo{title}{Global trends and hotspots in the research of the
+  effects of pm2.5 on asthma: A bibliometric and visualized analysis},
+\newblock \bibinfo{journal}{J Epidemiol Glob Health} \bibinfo{volume}{14}
+  (\bibinfo{year}{2024}) \bibinfo{pages}{1720--1736}.
+  \DOIprefix\doi{10.1007/s44197-024-00331-4}.
+%Type = Techreport
+\bibitem[{{Kementerian Lingkungan Hidup dan Kehutanan Republik
+  Indonesia}(2020)}]{KLHK2020}
+\bibinfo{author}{{Kementerian Lingkungan Hidup dan Kehutanan Republik
+  Indonesia}}, \bibinfo{title}{{Peraturan Menteri Lingkungan Hidup dan
+  Kehutanan Nomor 14 Tahun 2020 tentang Indeks Standar Pencemar Udara}},
+  \bibinfo{type}{Peraturan Menteri} \bibinfo{number}{14}, Kementerian
+  Lingkungan Hidup dan Kehutanan Republik Indonesia, \bibinfo{address}{Jakarta,
+  Indonesia}, \bibinfo{year}{2020}. \URLprefix
+  \url{https://peraturan.bpk.go.id/Details/163466/permen-lhk-no-14-tahun-2020}.
+%Type = Techreport
+\bibitem[{{World Health Organization}(2021)}]{WHO2021}
+\bibinfo{author}{{World Health Organization}}, \bibinfo{title}{WHO Global Air
+  Quality Guidelines: Particulate Matter (PM2.5 and PM10), Ozone, Nitrogen
+  Dioxide, Sulfur Dioxide and Carbon Monoxide}, \bibinfo{type}{Technical
+  Report}, World Health Organization, \bibinfo{address}{Geneva},
+  \bibinfo{year}{2021}.
+%Type = Techreport
+\bibitem[{{Badan Meteorologi, Klimatologi, dan Geofisika}(2024)}]{BMKG2024}
+\bibinfo{author}{{Badan Meteorologi, Klimatologi, dan Geofisika}},
+  \bibinfo{title}{Catatan Iklim dan Kualitas Udara Indonesia 2024},
+  \bibinfo{type}{Technical Report}, Badan Meteorologi, Klimatologi, dan
+  Geofisika (BMKG), \bibinfo{year}{2024}. \URLprefix
+  \url{https://iklim.bmkg.go.id/bmkgadmin/storage/buletin/Catatan\%20Iklim\%20dan\%20Kualitas\%20Udara\%202024\%20BMKG.pdf}.
+%Type = Article
+\bibitem[{Hersbach et~al.(2020)Hersbach, Bell, Berrisford, Hirahara,
+  Hor{\'a}nyi, Nicolas, Peubey, Radu, Bonavita, Dee, Dragani, Flemming, Forbes,
+  Geer, Hogan, Janiskov{\'a}, Keeley, Laloyaux, Cristina, and
+  Th{\'e}paut}]{hersbach2020}
+\bibinfo{author}{H.~Hersbach}, \bibinfo{author}{B.~Bell},
+  \bibinfo{author}{P.~Berrisford}, \bibinfo{author}{S.~Hirahara},
+  \bibinfo{author}{A.~Hor{\'a}nyi}, \bibinfo{author}{J.~Nicolas},
+  \bibinfo{author}{C.~Peubey}, \bibinfo{author}{R.~Radu},
+  \bibinfo{author}{M.~Bonavita}, \bibinfo{author}{D.~Dee},
+  \bibinfo{author}{R.~Dragani}, \bibinfo{author}{J.~Flemming},
+  \bibinfo{author}{R.~Forbes}, \bibinfo{author}{A.~Geer},
+  \bibinfo{author}{R.~J. Hogan}, \bibinfo{author}{H.~M. Janiskov{\'a}},
+  \bibinfo{author}{S.~Keeley}, \bibinfo{author}{P.~Laloyaux},
+  \bibinfo{author}{P.~L. Cristina}, \bibinfo{author}{J.-n. Th{\'e}paut},
+\newblock \bibinfo{title}{The era5 global reanalysis},
+\newblock \bibinfo{journal}{Quarterly Journal of the Royal Meteorological
+  Society} \bibinfo{volume}{146} (\bibinfo{year}{2020})
+  \bibinfo{pages}{1999--2049}. \DOIprefix\doi{10.1002/qj.3803}.
+%Type = Misc
+\bibitem[{{Copernicus Climate Change Service}(2023)}]{copernicus2023}
+\bibinfo{author}{{Copernicus Climate Change Service}},
+  \bibinfo{title}{Copernicus climate data store (cds)},
+  \bibinfo{howpublished}{\url{https://cds.climate.copernicus.eu/}},
+  \bibinfo{year}{2023}. \bibinfo{note}{Accessed: 2024-12-17}.
+%Type = Article
+\bibitem[{Bell et~al.(2021)Bell, Hersbach, Simmons, Berrisford, Dahlgren,
+  Hor{\'a}nyi, Mu{\~n}oz-Sabater, Nicolas, Radu, Schepers, Soci, Villaume,
+  Bidlot, Haimberger, Woollen, Buontempo, and Th{\'e}paut}]{bell2021}
+\bibinfo{author}{B.~Bell}, \bibinfo{author}{H.~Hersbach},
+  \bibinfo{author}{A.~Simmons}, \bibinfo{author}{P.~Berrisford},
+  \bibinfo{author}{P.~Dahlgren}, \bibinfo{author}{A.~Hor{\'a}nyi},
+  \bibinfo{author}{J.~Mu{\~n}oz-Sabater}, \bibinfo{author}{J.~Nicolas},
+  \bibinfo{author}{R.~Radu}, \bibinfo{author}{D.~Schepers},
+  \bibinfo{author}{C.~Soci}, \bibinfo{author}{S.~Villaume},
+  \bibinfo{author}{J.-R. Bidlot}, \bibinfo{author}{L.~Haimberger},
+  \bibinfo{author}{J.~Woollen}, \bibinfo{author}{C.~Buontempo},
+  \bibinfo{author}{J.-N. Th{\'e}paut},
+\newblock \bibinfo{title}{The era5 global reanalysis: Preliminary extension to
+  1950},
+\newblock \bibinfo{journal}{Quarterly Journal of the Royal Meteorological
+  Society} \bibinfo{volume}{147} (\bibinfo{year}{2021})
+  \bibinfo{pages}{4186--4227}.
+%Type = Article
+\bibitem[{Son et~al.(2023)Son, Stratoulias, Kim, and Yoon}]{Son2023}
+\bibinfo{author}{R.~Son}, \bibinfo{author}{D.~Stratoulias},
+  \bibinfo{author}{H.~C. Kim}, \bibinfo{author}{J.-H. Yoon},
+\newblock \bibinfo{title}{Estimation of surface pm2.5 concentrations from
+  atmospheric gas species retrieved from tropomi using deep learning: Impacts
+  of fire on air pollution over thailand},
+\newblock \bibinfo{journal}{Atmospheric Pollution Research}
+  \bibinfo{volume}{14} (\bibinfo{year}{2023}) \bibinfo{pages}{101875}.
+  \DOIprefix\doi{10.1016/j.apr.2023.101875}.
+%Type = Misc
+\bibitem[{{Kementerian Lingkup Hidup dan Kehutanan}(2022)}]{KLHK}
+\bibinfo{author}{{Kementerian Lingkup Hidup dan Kehutanan}},
+  \bibinfo{title}{Indeks standar pencemaran udara (ispu) sebagai informasi mutu
+  udara ambien di indonesia}, \bibinfo{year}{2022}.
+  \bibinfo{note}{\url{https://ditppu.menlhk.go.id/portal/read/indeks-standar-pencemar-udara-ispu-sebagai-informasi-mutu-udara-ambien-di-indonesia}}.
+%Type = Article
+\bibitem[{Handhayani(2023)}]{Handhayani2023}
+\bibinfo{author}{T.~Handhayani},
+\newblock \bibinfo{title}{An integrated analysis of air pollution and
+  meteorological conditions in jakarta},
+\newblock \bibinfo{journal}{Scientific Reports} \bibinfo{volume}{13}
+  (\bibinfo{year}{2023}) \bibinfo{pages}{5798}. \URLprefix
+  \url{https://doi.org/10.1038/s41598-023-32817-9}.
+  \DOIprefix\doi{10.1038/s41598-023-32817-9}.
+%Type = Article
+\bibitem[{Hochreiter and Schmidhuber(1997)}]{hochreiter1997long}
+\bibinfo{author}{S.~Hochreiter}, \bibinfo{author}{J.~Schmidhuber},
+\newblock \bibinfo{title}{Long short-term memory},
+\newblock \bibinfo{journal}{Neural Computation} \bibinfo{volume}{9}
+  (\bibinfo{year}{1997}) \bibinfo{pages}{1735--1780}.
+  \DOIprefix\doi{10.1162/neco.1997.9.8.1735}.
+%Type = Article
+\bibitem[{Zheng et~al.(2021)Zheng, Lin, Feng, and Chen}]{Zheng2021}
+\bibinfo{author}{H.~Zheng}, \bibinfo{author}{F.~Lin},
+  \bibinfo{author}{X.~Feng}, \bibinfo{author}{Y.~Chen},
+\newblock \bibinfo{title}{A hybrid deep learning model with attention-based
+  conv-lstm networks for short-term traffic flow prediction},
+\newblock \bibinfo{journal}{IEEE Transactions on Intelligent Transportation
+  Systems} \bibinfo{volume}{22} (\bibinfo{year}{2021})
+  \bibinfo{pages}{6910--6920}. \DOIprefix\doi{10.1109/TITS.2020.2997352}.
+%Type = Article
+\bibitem[{Liao et~al.(2023)}]{Liao2023AQILSTMScientificReports}
+\bibinfo{author}{Q.~Liao}, et~al.,
+\newblock \bibinfo{title}{Air quality prediction model based on mrmr--rf
+  feature selection and issa--lstm},
+\newblock \bibinfo{journal}{Scientific Reports} \bibinfo{volume}{13}
+  (\bibinfo{year}{2023}) \bibinfo{pages}{13264}.
+  \DOIprefix\doi{10.1038/s41598-023-39838-4}.
+%Type = Article
+\bibitem[{Zhao et~al.(2023)}]{Zhao2023SALSTMPM25}
+\bibinfo{author}{L.~Zhao}, et~al.,
+\newblock \bibinfo{title}{Forecasting hourly pm2.5 concentration with
+  spatial-autocorrelation-based long short-term memory neural network},
+\newblock \bibinfo{journal}{Atmospheric Environment} \bibinfo{volume}{315}
+  (\bibinfo{year}{2023}) \bibinfo{pages}{120162}.
+  \DOIprefix\doi{10.1016/j.atmosenv.2023.120162}.
+%Type = Article
+\bibitem[{Ko\c{c}ak et~al.(2024)}]{Kocak2024HybridLSTM}
+\bibinfo{author}{E.~Ko\c{c}ak}, et~al.,
+\newblock \bibinfo{title}{Hybrid model for air quality prediction based on lstm
+  with random search and bayesian optimization techniques},
+\newblock \bibinfo{journal}{Earth Science Informatics}  (\bibinfo{year}{2024}).
+  \DOIprefix\doi{10.1007/s12145-024-01514-0}.
+%Type = Article
+\bibitem[{Lovri\'{c} et~al.(2024)}]{Lovric2024EnsembleLSTM}
+\bibinfo{author}{M.~Lovri\'{c}}, et~al.,
+\newblock \bibinfo{title}{Ensemble machine learning, deep learning, and time
+  series forecasting: Improving prediction accuracy for hourly concentrations
+  of ambient air pollutants},
+\newblock \bibinfo{journal}{Aerosol and Air Quality Research}
+  \bibinfo{volume}{24} (\bibinfo{year}{2024}) \bibinfo{pages}{230317}.
+  \DOIprefix\doi{10.4209/aaqr-23-12-oa-0317}.
+%Type = Article
+\bibitem[{Zeng et~al.(2022)}]{Zeng2022CEEMDAN_LSTM_AQI}
+\bibinfo{author}{M.~Zeng}, et~al.,
+\newblock \bibinfo{title}{An ensemble lstm-based aqi forecasting model with
+  decomposition--reconstruction technique via ceemdan and fuzzy entropy},
+\newblock \bibinfo{journal}{Air Quality, Atmosphere \& Health}
+  \bibinfo{volume}{15} (\bibinfo{year}{2022}) \bibinfo{pages}{2219--2234}.
+  \DOIprefix\doi{10.1007/s11869-022-01252-6}.
+%Type = Article
+\bibitem[{Cho et~al.(????)Cho, van Merrienboer, Bahdanau, and
+  Bengio}]{Cho2014GRU}
+\bibinfo{author}{K.~Cho}, \bibinfo{author}{B.~van Merrienboer},
+  \bibinfo{author}{D.~Bahdanau}, \bibinfo{author}{Y.~Bengio},
+\newblock \bibinfo{title}{Learning phrase representations using rnn
+  encoder--decoder for statistical machine translation},
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1406.1078}  (????).
+  \bibinfo{note}{DOI: \url{https://doi.org/10.48550/arXiv.1406.1078}}.
+%Type = Inproceedings
+\bibitem[{Sutskever et~al.(2014)Sutskever, Vinyals, and
+  Le}]{Sutskever2014Seq2Seq}
+\bibinfo{author}{I.~Sutskever}, \bibinfo{author}{O.~Vinyals},
+  \bibinfo{author}{Q.~V. Le},
+\newblock \bibinfo{title}{Sequence to sequence learning with neural networks},
+\newblock in: \bibinfo{booktitle}{Advances in Neural Information Processing
+  Systems}, \bibinfo{year}{2014}. \bibinfo{note}{DOI:
+  \url{https://doi.org/10.48550/arXiv.1409.3215}}.
+%Type = Article
+\bibitem[{Che et~al.(2018)Che, Purushotham, Cho, Sontag, and Liu}]{Che2018GRUD}
+\bibinfo{author}{Z.~Che}, \bibinfo{author}{S.~Purushotham},
+  \bibinfo{author}{K.~Cho}, \bibinfo{author}{D.~Sontag},
+  \bibinfo{author}{Y.~Liu},
+\newblock \bibinfo{title}{Recurrent neural networks for multivariate time
+  series with missing values},
+\newblock \bibinfo{journal}{Scientific Reports} \bibinfo{volume}{8}
+  (\bibinfo{year}{2018}) \bibinfo{pages}{6085}.
+  \DOIprefix\doi{10.1038/s41598-018-24271-9}.
+
+\end{thebibliography}
